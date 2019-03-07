@@ -9,3 +9,6 @@
 7. PancakeSorting: Given an array A, we can perform a pancake flip.
 8. ToeplitzMatrix: return True if and only if the matrix is Toeplitz.
 9. RangeAddition: Return the modified array after all k operations were executed.
+10. FindAllDuplicatesInAnArray: Find all the elements that appear twice in this array.
+11. ReshapeTheMatrix: Simulate reshape in Matlab.
+12. ShortestWordDistance: return the shortest distance between two given words in the list.
