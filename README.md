@@ -6,3 +6,6 @@
 4. FindCommonCharacters: return a list of all characters that show up in all strings within the list.
 5. SumOfEvenNumbersAfterQueries: Return the answer to all queries.
 6. CandyCrush: Implementing a basic elimination algorithm for Candy Crush.
+7. PancakeSorting: Given an array A, we can perform a pancake flip.
+8. ToeplitzMatrix: return True if and only if the matrix is Toeplitz.
+9. RangeAddition: Return the modified array after all k operations were executed.
