@@ -12,3 +12,6 @@
 10. FindAllDuplicatesInAnArray: Find all the elements that appear twice in this array.
 11. ReshapeTheMatrix: Simulate reshape in Matlab.
 12. ShortestWordDistance: return the shortest distance between two given words in the list.
+13. FairCandySwap: Return an integer array ans where ans[0] is the size of the candy bar that Alice must exchange, and ans[1] is the size of the candy bar that Bob must exchange.
+14. MonotonicArray: Return true if and only if the given array A is monotonic.
+15. MaxConsecutiveOnes: find the maximum number of consecutive 1s in this array.
