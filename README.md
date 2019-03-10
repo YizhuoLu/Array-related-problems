@@ -18,3 +18,6 @@
 16. ShortestWordDistanceIII: return the shortest distance between these two words in the list.
 17. TeemoAttacking: output the total time that Ashe is in poisoned condition.
 18. ArrayNesting: Find and return the longest length of set S.
+19. BeautifulArrangementII: construct a list of numbers given n and k.
+20. MaxChunksToMakeSorted: What is the most number of chunks we could have made?
+21. BestTimeToBuyAndSellStockII: Design an algorithm to find the maximum profit.
