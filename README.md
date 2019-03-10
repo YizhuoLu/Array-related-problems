@@ -15,3 +15,6 @@
 13. FairCandySwap: Return an integer array ans where ans[0] is the size of the candy bar that Alice must exchange, and ans[1] is the size of the candy bar that Bob must exchange.
 14. MonotonicArray: Return true if and only if the given array A is monotonic.
 15. MaxConsecutiveOnes: find the maximum number of consecutive 1s in this array.
+16. ShortestWordDistanceIII: return the shortest distance between these two words in the list.
+17. TeemoAttacking: output the total time that Ashe is in poisoned condition.
+18. ArrayNesting: Find and return the longest length of set S.
